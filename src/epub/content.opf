@@ -106,17 +106,17 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="jewel-robbery-at-the-grand-metropolitan.xhtml"/>
-		<itemref idref="the-adventure-of-the-cheap-flat.xhtml"/>
-		<itemref idref="the-adventure-of-the-egyptian-tomb.xhtml"/>
-		<itemref idref="the-adventure-of-the-italian-nobleman.xhtml"/>
 		<itemref idref="the-adventure-of-the-western-star.xhtml"/>
-		<itemref idref="the-case-of-the-missing-will.xhtml"/>
-		<itemref idref="the-disappearance-of-mr-davenheim.xhtml"/>
-		<itemref idref="the-kidnapped-prime-minister.xhtml"/>
-		<itemref idref="the-million-dollar-bond-robbery.xhtml"/>
-		<itemref idref="the-mystery-of-hunters-lodge.xhtml"/>
 		<itemref idref="the-tragedy-at-marsdon-manor.xhtml"/>
+		<itemref idref="the-adventure-of-the-cheap-flat.xhtml"/>
+		<itemref idref="the-mystery-of-hunters-lodge.xhtml"/>
+		<itemref idref="the-million-dollar-bond-robbery.xhtml"/>
+		<itemref idref="the-adventure-of-the-egyptian-tomb.xhtml"/>
+		<itemref idref="jewel-robbery-at-the-grand-metropolitan.xhtml"/>
+		<itemref idref="the-kidnapped-prime-minister.xhtml"/>
+		<itemref idref="the-disappearance-of-mr-davenheim.xhtml"/>
+		<itemref idref="the-adventure-of-the-italian-nobleman.xhtml"/>
+		<itemref idref="the-case-of-the-missing-will.xhtml"/>
 		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>

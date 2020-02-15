@@ -43,8 +43,10 @@
 		<meta property="term" refines="#subject-4">sh2008109473</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">placeholder for short description</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;placeholder for long description&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61262</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.148803</dc:source>
@@ -80,7 +82,6 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/.DS_Store" id=".DS_Store" media-type="image/jpeg"/>
 		<item href="images/bedroom-sketch.svg" id="bedroom-sketch.svg" media-type="image/svg+xml"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
@@ -105,17 +106,17 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="the-adventure-of-the-western-star.xhtml"/>
-		<itemref idref="the-tragedy-at-marsdon-manor.xhtml"/>
-		<itemref idref="the-adventure-of-the-cheap-flat.xhtml"/>
-		<itemref idref="the-mystery-of-hunters-lodge.xhtml"/>
-		<itemref idref="the-million-dollar-bond-robbery.xhtml"/>
-		<itemref idref="the-adventure-of-the-egyptian-tomb.xhtml"/>
 		<itemref idref="jewel-robbery-at-the-grand-metropolitan.xhtml"/>
-		<itemref idref="the-kidnapped-prime-minister.xhtml"/>
-		<itemref idref="the-disappearance-of-mr-davenheim.xhtml"/>
+		<itemref idref="the-adventure-of-the-cheap-flat.xhtml"/>
+		<itemref idref="the-adventure-of-the-egyptian-tomb.xhtml"/>
 		<itemref idref="the-adventure-of-the-italian-nobleman.xhtml"/>
+		<itemref idref="the-adventure-of-the-western-star.xhtml"/>
 		<itemref idref="the-case-of-the-missing-will.xhtml"/>
+		<itemref idref="the-disappearance-of-mr-davenheim.xhtml"/>
+		<itemref idref="the-kidnapped-prime-minister.xhtml"/>
+		<itemref idref="the-million-dollar-bond-robbery.xhtml"/>
+		<itemref idref="the-mystery-of-hunters-lodge.xhtml"/>
+		<itemref idref="the-tragedy-at-marsdon-manor.xhtml"/>
 		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>

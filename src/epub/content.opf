@@ -89,7 +89,6 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/jewel-robbery-at-the-grand-metropolitan.xhtml" id="jewel-robbery-at-the-grand-metropolitan.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-cheap-flat.xhtml" id="the-adventure-of-the-cheap-flat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventure-of-the-egyptian-tomb.xhtml" id="the-adventure-of-the-egyptian-tomb.xhtml" media-type="application/xhtml+xml"/>
@@ -97,6 +96,7 @@
 		<item href="text/the-adventure-of-the-western-star.xhtml" id="the-adventure-of-the-western-star.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-case-of-the-missing-will.xhtml" id="the-case-of-the-missing-will.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-disappearance-of-mr-davenheim.xhtml" id="the-disappearance-of-mr-davenheim.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-jewel-robbery-at-the-grand-metropolitan.xhtml" id="the-jewel-robbery-at-the-grand-metropolitan.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-kidnapped-prime-minister.xhtml" id="the-kidnapped-prime-minister.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-million-dollar-bond-robbery.xhtml" id="the-million-dollar-bond-robbery.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mystery-of-hunters-lodge.xhtml" id="the-mystery-of-hunters-lodge.xhtml" media-type="application/xhtml+xml"/>
@@ -113,7 +113,7 @@
 		<itemref idref="the-mystery-of-hunters-lodge.xhtml"/>
 		<itemref idref="the-million-dollar-bond-robbery.xhtml"/>
 		<itemref idref="the-adventure-of-the-egyptian-tomb.xhtml"/>
-		<itemref idref="jewel-robbery-at-the-grand-metropolitan.xhtml"/>
+		<itemref idref="the-jewel-robbery-at-the-grand-metropolitan.xhtml"/>
 		<itemref idref="the-kidnapped-prime-minister.xhtml"/>
 		<itemref idref="the-disappearance-of-mr-davenheim.xhtml"/>
 		<itemref idref="the-adventure-of-the-italian-nobleman.xhtml"/>

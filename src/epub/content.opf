@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61262</dc:source>
 		<dc:source>https://archive.org/details/poirotinv00agch_images</dc:source>
-		<meta property="se:word-count">53441</meta>
+		<meta property="se:word-count">53442</meta>
 		<meta property="se:reading-ease.flesch">76.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poirot_Investigates</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_poirot-investigates</meta>
